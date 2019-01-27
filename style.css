@@ -12,16 +12,12 @@ body{
 	padding-left:0;
 }
 h3{
-	font-size:60px;
+	font-size:52px;
 	font-family:Monotype Corsiva;
 }
 h4{
 	font-size:36px;
 	text-decoration: none;
-}
-iframe{
-	width:100%;
-	height:auto;
 }
 a{
 	text-decoration: none;
@@ -31,8 +27,8 @@ a:hover{
 	color:red;
 }
 img{
-	padding-top:50px;
-	width:30%;
+	width:50%;
+	height:30%;
 }
 .facebook{
 	padding:10px;
